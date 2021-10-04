@@ -10,5 +10,13 @@ package model;
  * @author zjhoz
  */
 public class Load {
+    // Default constructor
+    private int truckNum   = 0;
+    private int trailerNum = 0;
+
+
+    // Constructor for load class
+    public Load (int truckNum, int trailerNum){
     
+    }
 }
