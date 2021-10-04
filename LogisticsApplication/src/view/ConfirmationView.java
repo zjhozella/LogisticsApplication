@@ -9,12 +9,7 @@ package view;
  *
  * @author zjhoz
  */
-public class IncomingView {
-    
-    private int loadNumber;
-    private int truckNumber;
-    private int trailerNumber;
-    
+public class ConfirmationView {
     
     
 }
