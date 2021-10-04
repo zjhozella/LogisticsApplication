@@ -11,4 +11,12 @@ package view;
  */
 public class OutgoingView {
     
+    private int loadNumber;
+    private int truckNumber;
+    private int trailerNumber;
+    private int storeNumber;
+    private int sealNumber;
+    
+    
+    
 }
