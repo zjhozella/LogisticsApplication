@@ -17,6 +17,6 @@ public class OutgoingView {
     private int storeNumber;
     private int sealNumber;
     
-    
+    //From VScode
     
 }
