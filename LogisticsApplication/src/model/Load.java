@@ -11,23 +11,23 @@ package model;
  */
 public class Load {
     // Default constructor
-    int truckNum   = 0;
-    int trailerNum = 0;
-    int storeNum   = 0;
-    int sealNum    = 0;
-    int driverNum  = 0;
+    int truckNumber   = 0;
+    int trailerNumber = 0;
+    int storeNumber   = 0;
+    int sealNumber    = 0;
+    int driverNumber  = 0;
     boolean loadComplete = false;
     //Need to input timestamps
 
 
     // Constructor for load class
-    public Load (int truckNum, int trailerNum, int storeNum, int sealNum, int driverNum, boolean loadComplete){
-        this.trailerNum   = newTrailerNum;
-        this.truckNum     = newTruckNum;
-        this.storeNum     = newStoreNum;
-        this.sealNum      = newSealNum;
-        this.driverNum    = newDriverNum;
-        this.loadComplete = newLoadComplete;
+    public Load (int truckNumber, int trailerNumber, int storeNumber, int sealNumber, int driverNumber, boolean loadComplete){
+        this.trailerNumber   = newTrailerNum;
+        this.truckNumber     = newTruckNum;
+        this.storeNumber     = newStoreNum;
+        this.sealNumber      = newSealNum;
+        this.driverNumber    = newDriverNum;
+        this.loadComplete    = newLoadComplete;
 
 
     }
