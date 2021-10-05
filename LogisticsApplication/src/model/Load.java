@@ -22,11 +22,11 @@ public class Load {
 
     // Constructor for load class
     public Load (int truckNumber, int trailerNumber, int storeNumber, int sealNumber, int driverNumber, boolean loadComplete){
-        this.trailerNumber   = newTrailerNum;
-        this.truckNumber     = newTruckNum;
-        this.storeNumber     = newStoreNum;
-        this.sealNumber      = newSealNum;
-        this.driverNumber    = newDriverNum;
+        this.trailerNumber   = newTrailerNumber;
+        this.truckNumber     = newTruckNumber;
+        this.storeNumber     = newStoreNumber;
+        this.sealNumber      = newSealNumber;
+        this.driverNumber    = newDriverNumber;
         this.loadComplete    = newLoadComplete;
 
 
